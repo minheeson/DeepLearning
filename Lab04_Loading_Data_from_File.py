@@ -4,7 +4,7 @@ import tensorflow as tf
 import numpy as np
 tf.set_random_seed(777) # for reproducibility
 
-# Data delitmiter = ',' // 73, 80, 75, 152
+# Data delitmiter = ',' // ex) 73, 80, 75, 152
 xy = np.loadtxt('data-01-test-score.csv', delimiter=',', dtype=np.float32)
 x_data = xy[:, 0:-1] # 73, 80, 75
 y_data = xy[:, [-1]] # 152
