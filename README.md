@@ -41,7 +41,7 @@
 
   - ##### Data form 
 
-    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_1.png" width=300/> 
+    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_1.png" width=250/> 
 
   - ##### Result 
 
@@ -51,7 +51,7 @@
 
   - ##### Data form
 
-    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_2.png" width=300/>
+    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_2.png" width=250/>
 
   - ##### Result
 
