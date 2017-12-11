@@ -18,11 +18,11 @@
 
 - ### Minimizing Cost (using pyplot)
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab03_Minimizing_Cost.png" width=500/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab03_Minimizing_Cost.png" width=400/>
 
 - ### Minimizing Cost with Wrong Weight
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab03_Minimizing_Cost_with_wrong_weight.png" width=300/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab03_Minimizing_Cost_with_wrong_weight.png" width=400/>
 
   - 결국엔 최소 cost를 갖는 W=1이 되는것을 확인할 수 있음 
 
