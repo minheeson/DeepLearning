@@ -37,4 +37,22 @@
 
 ## Lab04-1. Multi-variable Linear regression
 
-- ### M
+- ### Multi-variable Linear regression
+
+  - ##### Data form 
+
+    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_1.png" width=300/> 
+
+  - ##### Result 
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_Multi_Variable_Linear_regression.png" width=500/>
+
+- ### Multi-variable Linear regression using Matrix
+
+  - ##### Data form
+
+    ##### <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_dataform_2.png" width=300/>
+
+  - ##### Result
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_Multi_Variable_Linear_regression_using_Matrix.png" width=500/>
