@@ -56,3 +56,21 @@
   - ##### Result
 
     <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab04_Multi_Variable_Linear_regression_using_Matrix.png" width=500/>
+
+## myLab01. Basic Tensorflow
+
+- ### MyLab01_2
+
+  - ##### 다음의 그래프대로 구현하는 코드를 작성
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2.png" width=400/>
+
+  - ##### Result
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2_result.png" width=300 />
+
+- ### MyLab01_5
+
+  - ##### data.csv 파일의 데이터를 읽어 4/5를 training set으로 하고 나머지 1/5을 test set으로 실행 
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_5.png" width=450/>
