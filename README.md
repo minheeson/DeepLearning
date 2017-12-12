@@ -63,11 +63,11 @@
 
   - ##### 다음의 그래프대로 구현하는 코드를 작성
 
-    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2.png" width=400/>
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2.png" width=300/>
 
   - ##### Result
 
-    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2_result.png" width=300 />
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_2_result.png" width=400 />
 
 - ### MyLab01_5
 
