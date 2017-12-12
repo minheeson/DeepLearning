@@ -74,3 +74,19 @@
   - ##### data.csv 파일의 데이터를 읽어 4/5를 training set으로 하고 나머지 1/5을 test set으로 실행 
 
     <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab01_5.png" width=450/>
+
+## Lab05. Logistic (regression) Classifier
+
+- ### Logistic Regression
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab05_Logistic_regression.png" width=500/>
+
+- ### Logistic Regression Diabetes
+
+  - ##### Data form
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab05_diabetes.png" width=500/>
+
+  - ##### Result
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab05_Logistic_regression_diabetes.png" width=500/>
