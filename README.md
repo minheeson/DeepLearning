@@ -90,3 +90,15 @@
   - ##### Result
 
     <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab05_Logistic_regression_diabetes.png" width=500/>
+
+## Lab06. Softmax Classifier
+
+- ### Softmax Classifier
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab06_Softmax_Classifier.png" width=500/>
+
+- ### Fancy Softmax Classifier
+
+  - ##### cross_entropy, one_hot, reshape
+
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab06_Fancy_Softmax_Classifier.png" width=500/>
