@@ -122,3 +122,23 @@
 - ### softmax classification
 
   <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_3.png" width=500/>
+
+## Lab07-1. Learning rate, Evaluation
+
+- ### Non-normalized inputs
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_Learning_rate_Evaluation_MNIST.png" width=450/>
+
+- ### Normalized inputs
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_normalized_inputs.png" width=400/>
+
+## Lab07-2. MNIST data
+
+- ### Accuracy
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_MNIST_data.png" width=400/>
+
+- ### Prediction
+
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_MNIST_data_result.png" width=350/>
