@@ -147,10 +147,12 @@
 
 - ### learning rate = 0.01
 
-  <img src="" width=300/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab03_0.01.png" width=300/>
 
 - ### learning rate = 0.1
 
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab03_0.1.png" width=300/>
+
 - ### learning rate = 0.5
 
-  ​
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab03_0.5.png" width=300/>
