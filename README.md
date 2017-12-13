@@ -113,12 +113,12 @@
 
 - ### linear hypothesis 이용한 classification
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_1.png" width=600/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_1.png" width=500/>
 
 - ### logistic classification
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_2.png" width=600/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_2.png" width=500/>
 
 - ### softmax classification
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_3.png" width=600/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/myLab02_3.png" width=500/>
