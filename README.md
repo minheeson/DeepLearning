@@ -141,4 +141,4 @@
 
 - ### Prediction
 
-  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_MNIST_data_result.png" width=350/>
+  <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_MNIST_data_result.png" width=250/>
