@@ -142,3 +142,15 @@
 - ### Prediction
 
   <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab07_MNIST_data_result.png" width=150/>
+
+## myLab03. train, validation, test
+
+- ### learning rate = 0.01
+
+  <img src="" width=300/>
+
+- ### learning rate = 0.1
+
+- ### learning rate = 0.5
+
+  ​
