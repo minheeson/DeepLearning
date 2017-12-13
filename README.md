@@ -103,6 +103,8 @@
 
   - ##### Data form
 
-    <img src="" width=500/>
+    <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab06_Fancy_Softmax_Classifier_data.png" width=500/>
+
+  - ##### Result
 
     <img src="https://github.com/minheeson/DeepLearning/blob/master/screenshots/Lab06_Fancy_Softmax_Classifier.png" width=500/>
